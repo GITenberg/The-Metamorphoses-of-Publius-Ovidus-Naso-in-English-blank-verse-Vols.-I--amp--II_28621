@@ -1,0 +1,40 @@
+_repo: The-Metamorphoses-of-Publius-Ovidus-Naso-in-English-blank-verse-Vols.-I--amp--II_28621
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Howard, J. J.
+    gutenberg_agent_id: '33451'
+    url: http://www.gutenberg.org/2009/agents/33451
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ovid
+    alias: Ovidius Naso, Publius
+    birthdate: -43
+    deathdate: 17
+    gutenberg_agent_id: '2868'
+    url: http://www.gutenberg.org/2009/agents/2868
+    wikipedia: http://en.wikipedia.org/wiki/Ovid
+description: ''
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- Poetry
+gutenberg_issued: '2009-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28621'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Mythology, Classical -- Poetry'
+- !lcsh 'Fables, Latin -- Translations into English'
+- !lcsh 'Metamorphosis -- Mythology -- Poetry'
+- !lcsh 'Classical literature'
+- !lcsh 'Latin poetry -- Translations into English'
+title: The Metamorphoses of Publius Ovidus Naso in English blank verse Vols. I & II
+url: http://www.gutenberg.org/ebooks/28621
