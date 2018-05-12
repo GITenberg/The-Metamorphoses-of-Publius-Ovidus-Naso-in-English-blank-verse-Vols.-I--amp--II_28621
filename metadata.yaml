@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2868
     wikipedia: http://en.wikipedia.org/wiki/Ovid
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28621#The-Metamorphoses-of-Publius-Ovidus-Naso-in-English-blank-verse-Vols.-I--amp--II
 gutenberg_bookshelf:
 - Best Books Ever Listings
 - Poetry
